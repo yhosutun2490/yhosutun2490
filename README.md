@@ -4,7 +4,7 @@
 <h3 align="center">Agricultural Specialist from Taiwan (Major-Master)</h3>
 <h3 align="center">Pre-junior frontend developer from Taiwan (Second-Skills)</h3>
 
-- 🔭 Previous worked on **ICDF-Rice Seeds Production Project**
+- 🔭 Previously worked on **ICDF-Rice Seeds Production Project**
 
 - 🌱 I’m currently learning **React,JS,RWD,CSS**
 
