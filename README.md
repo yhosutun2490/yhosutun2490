@@ -2,11 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Rafael</h1>
 <h3 align="center">Agricultural Specialist from Taiwan (Major-Master)</h3>
-<h3 align="center">Pre-junior frontend developer from Taiwan (Second-Skills)</h3>
+<h3 align="center">junior frontend developer from Taiwan (Second-Skills)</h3>
 
 - 🔭 Previously worked on **ICDF-Rice Seeds Production Project**
 
-- 🌱 I’m currently learning **React,JS,RWD,CSS**
+- 🌱 I’m currently learning **React,Vue,JS,RWD,CSS,CI/Test**
 
 - 📫 How to reach me **yhosutun2491@gmail.com**
 
